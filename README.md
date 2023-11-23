@@ -1,1 +1,0 @@
-# jms-point-to-point-by-activemq
